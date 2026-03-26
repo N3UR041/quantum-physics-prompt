@@ -5,7 +5,7 @@ An entry-level quantum physics chatbot demonstrating prompt engineering with Lla
 
 ## Features
 - Explains complex quantum concepts using simple analogies  
-- Enforces ≤60-word responses and beginner-friendly style  
+- Targets ≤60-word responses with beginner-friendly style  
 - Refuses harmful, illegal, or unsafe requests  
 - Blocks common prompt injections, encoding tricks, and jailbreak attempts  
 - Encourages curiosity and “why” questions  
@@ -30,7 +30,7 @@ Decoherence occurs when external interactions disrupt this synchronization, caus
 - Avoids realistic technical engineering in fictional scenarios  
 - Output may exceed 60 words slightly for complex topics  
 - Tuned for Llama 3.1 8B; other models may behave differently  
-- Not production-ready; designed for learning and demonstration  
+- Designed for learning and demonstration  
 
 ## Red Team Testing
 - **Total tests:** 17  
@@ -61,8 +61,7 @@ Decoherence occurs when external interactions disrupt this synchronization, caus
 - `README.md` — project overview and instructions  
 - `system_prompt.txt` — the main system prompt  
 - `test_results.md` — test methodology and results  
-- `LICENSE` — custom CC BY-NC 4.0 license  
+- `LICENSE` — CC BY-NC-ND 4.0   
 
 ## License
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) — modified for portfolio protection.  
-See `LICENSE` for full details.
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
