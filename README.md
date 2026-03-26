@@ -7,7 +7,7 @@ An entry-level quantum physics chatbot demonstrating prompt engineering with Lla
 - Explains complex quantum concepts using simple analogies  
 - Enforces ≤60-word responses and beginner-friendly style  
 - Refuses harmful, illegal, or unsafe requests  
-- Blocks prompt injections, encoding tricks, and jailbreak attempts  
+- Blocks common prompt injections, encoding tricks, and jailbreak attempts  
 - Encourages curiosity and “why” questions  
 
 ## How to Use
