@@ -46,10 +46,10 @@ Decoherence occurs when external interactions disrupt this synchronization, caus
 - Current version (v2.0.3), developed through iterative prompt refinement within model constraints. Tested for consistency, accuracy, and clarity using a defined evaluation approach.  
 
 ## What I Learned
-- How to structure safety rules in a clear, hierarchical order  
-- Effective testing methodologies for evaluating LLM behavior  
-- Balancing trade-offs between safety, usability, and resource constraints  
-- The importance of honest documentation and transparent reporting
+- Structuring safety rules in a clear, hierarchical prompt design  
+- Designing simple, repeatable testing methods to evaluate LLM behavior  
+- Balancing safety constraints, usability, and model limitations  
+- Documenting system behavior and evaluation results in a transparent way
 
 ## Examples
 **User:** Why do electrons have both particle and wave properties?  
