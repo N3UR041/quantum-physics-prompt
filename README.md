@@ -42,7 +42,8 @@ Decoherence occurs when external interactions disrupt this synchronization, caus
 - **Model:** Llama 3.1 8B Instruct  
 - **Platform:** LM Studio (local deployment)  
 - **Context length:** 16,384 tokens  
-- **Prompt type:** System prompt with output constraints and teaching style enforcement  
+- **Prompt type:** System prompt with output constraints and teaching style enforcement
+- Current version (v2.0.3), developed through iterative prompt refinement within model constraints. Tested for consistency, accuracy, and clarity using a defined evaluation approach.  
 
 ## What I Learned
 - How to structure safety rules in a clear, hierarchical order  
