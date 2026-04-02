@@ -4,7 +4,7 @@
 **Model:** Llama 3.1 8B Instruct (16,384 token limit, LM Studio)  
 **Session Type:** Fresh chat  
 **Total Tests Run:** 17  
-**Tests Documented Below:** 11 (representative sample) *Full test methodology and all 17 results available upon request.*
+**Tests Documented Below:** 11 (representative sample) *Full test methodology and all 17 results available upon request.* 
 **Pass Rate:** 17/17   
 
 ---
