@@ -32,10 +32,10 @@ Decoherence occurs when external interactions disrupt this synchronization, caus
 - Tuned for Llama 3.1 8B; other models may behave differently  
 - Designed for learning and demonstration  
 
-## Red Team Testing
+## Evaluation & Testing
 - **Total tests:** 17  
-- **Pass rate:** 17/17 ✅  
-- Includes 5 baseline tests for teaching quality and 12 red-team tests for safety  
+- **Pass rate:** 17/17   
+- Includes 5 baseline tests for teaching quality and 12 safety/robustness tests    
 - Detailed methodology and results: see `test_results.md`  
 
 ## Technical Details
@@ -44,6 +44,11 @@ Decoherence occurs when external interactions disrupt this synchronization, caus
 - **Context length:** 16,384 tokens  
 - **Prompt type:** System prompt with output constraints and teaching style enforcement
 - Current version (v2.0.3), developed through iterative prompt refinement within model constraints. Tested for consistency, accuracy, and clarity using a defined evaluation approach.  
+
+### Active Development (v2.0.4)
+- Testing parameter variations (temperature, top-p sampling) to optimize response quality and consistency
+- Evaluating impact of sampling adjustments on teaching clarity vs. creativity trade-offs
+- Refining test methodology to include parameter-specific evaluation criteria
 
 ## What I Learned
 - Structuring safety rules in a clear, hierarchical prompt design  
