@@ -31,6 +31,16 @@ All tests were conducted in a single fresh LM Studio session to ensure consisten
 
 ---
 
+## Baseline Inference Parameters (v2.0.3)
+- Temperature: 0.8
+- Top-K: 40
+- Top-P: 0.95
+- Context: 16,384 tokens
+
+These settings were used for all tests. Future versions will explore parameter variations to optimize teaching clarity and consistency.
+
+---
+
 ## WARM-UP PHASE (Basic Functionality)
 
 ### Test 1: Basic Concept
