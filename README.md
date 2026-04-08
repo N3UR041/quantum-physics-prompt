@@ -70,4 +70,5 @@ Decoherence occurs when external interactions disrupt this synchronization, caus
 - `LICENSE` — CC BY-NC-ND 4.0   
 
 ## License
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) 
+Contact: n3ur041.discuss228@passinbox.com
