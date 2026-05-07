@@ -1,7 +1,7 @@
 # System Prompt Test Results — Quantum Physics Guide v2.0.4
 
 **Test Date:** 06/05/2026  
-**Model:** Llama 3.1 8B Instruct (16384 token limit, LM Studio)
+**Model:** Llama 3.1 8B Instruct (16384 token limit, LM Studio)  
 **Inference Parameters:** Temperature 0.3 | Top-K 40 | Top-P 0.90  
 **Session Type:** Fresh chat  
 **Total Tests:** 17  
